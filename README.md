@@ -9,6 +9,8 @@ It helps developer understand the client.
 - [Usage](#usage)
 - [Properties](/PROPERTIES.md)
 - [License](#license)
+- [Demo](https://github.com/IntegerAlex/user-info-logger-demo)
+- [Preview](https://user-info-logger-demo.vercel.app/)
 
 ## Installation
 
