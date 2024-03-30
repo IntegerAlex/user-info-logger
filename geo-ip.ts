@@ -7,8 +7,9 @@ export async function fetchIPInfo() {
 // Function to get geolocation information
 export async function fetchGeolocationInfo(ipAddress:string) {
     try {
+        const proxy = `https://low-power-proxy-zvovawe44a-de.a.run.app/proxy?url=`
         const targetUrl = `https://freegeoip.app/json/${ipAddress}`; // Target URL
-        const response = await fetch(targetUrl);
+        const response = await fetch(proxy+targetUrl);
         const data = await response.json();
         return data;
     } catch (error) {
