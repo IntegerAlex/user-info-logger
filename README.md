@@ -35,6 +35,17 @@ const data = userInfo()
 
 For a detailed breakdown of the properties included in the returned data, refer to the [Properties](/PROPERTIES.md) file.
 
+## Sponsorship
+
+
+To sponsor this project and contribute to its maintenance and development, consider supporting us through sponsorship. Your sponsorship helps cover the costs associated with maintaining a proxy server and API required for the functionality of User Info Logger.
+
+Your support enables us to continue providing a valuable tool for developers to better understand their users and improve their applications.
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink)](https://github.com/sponsors/IntegerAlex)
+
+Your sponsorship is greatly appreciated!
+
+
 ## License
 
 This project is licensed under the GPL V3 license. You're free to use, modify, and distribute this software under the terms of this license.
