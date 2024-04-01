@@ -17,6 +17,7 @@ It helps developer understand the client.
 ## Installation
 
 To install User Info Logger, you can use npm:
+[NPM REGISTRY](https://www.npmjs.com/package/user-info-logger)
 
 ```bash
 npm install user-info-logger
