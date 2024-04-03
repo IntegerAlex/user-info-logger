@@ -1,6 +1,8 @@
 # User Info Logger
 ![NPM Downloads](https://img.shields.io/npm/dt/user-info-logger?style=plastic&logo=npm)
 ![NPM Version](https://img.shields.io/npm/v/user-info-logger)
+<a href="https://pkg-size.dev/user-info-logger"><img src="https://pkg-size.dev/badge/install/70385" title="Install size for user-info-logger"></a>
+<a href="https://pkg-size.dev/user-info-logger"><img src="https://pkg-size.dev/badge/bundle/3359" title="Bundle size for user-info-logger"></a>
 
 User Info Logger is a Blazingly fast Client-side utility library for javascript that collects information about the user's IP address, geolocation, and system information.
 It helps developer understand the client.
