@@ -1,6 +1,7 @@
 # User Info Logger
 ![NPM Downloads](https://img.shields.io/npm/dt/user-info-logger?style=plastic&logo=npm)
 ![NPM Version](https://img.shields.io/npm/v/user-info-logger)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FIntegerAlex%2Fuser-info-logger.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FIntegerAlex%2Fuser-info-logger?ref=badge_shield)
 <a href="https://pkg-size.dev/user-info-logger"><img src="https://pkg-size.dev/badge/install/60028" title="Install size for user-info-logger"></a>
 <a href="https://pkg-size.dev/user-info-logger"><img src="https://pkg-size.dev/badge/bundle/3359" title="Bundle size for user-info-logger"></a>
 
@@ -52,3 +53,6 @@ Your sponsorship is greatly appreciated!
 ## License
 
 This project is licensed under the GPL V3 license. You're free to use, modify, and distribute this software under the terms of this license.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FIntegerAlex%2Fuser-info-logger.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FIntegerAlex%2Fuser-info-logger?ref=badge_large)
