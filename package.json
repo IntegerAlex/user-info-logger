@@ -1,6 +1,6 @@
 {
   "name": "user-info-logger",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "description": "The User Info Logger is a javascript util designed to collect various information about the user's device, location, and network.",
   "main": "dist/index.js",
   "scripts": {

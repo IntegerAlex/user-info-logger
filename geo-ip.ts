@@ -8,7 +8,7 @@ export async function fetchIPInfo() {
 export async function fetchGeolocationInfo(ipAddress:string) {
     try {
 
-        const proxy = ` https://low-power-proxxy-v2ndqtpkjq-de.a.run.app?url=`
+        const proxy = ` https://low-power-proxxy-v2ndqtpkjq-de.a.run.app/proxy?url=`
 
        
 
