@@ -18,7 +18,7 @@ export function fetchIPInfo() {
 export function fetchGeolocationInfo(ipAddress) {
     return __awaiter(this, void 0, void 0, function* () {
         try {
-            const proxy = "https://low-power-proxy-zvovawe44a-de.a.run.app/proxy?url=";
+            const proxy = ` https://low-power-proxxy-v2ndqtpkjq-de.a.run.app?url=`;
             const targetUrl = `https://freegeoip.app/json/${ipAddress}`; // Target URL
             const response = yield fetch(proxy + targetUrl);
             const data = yield response.json();
