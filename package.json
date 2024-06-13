@@ -1,17 +1,32 @@
 {
   "name": "user-info-logger",
-  "version": "0.6.0",
- "description": "The User Info Logger is a javascript util designed to collect various information about the user's device, location, and network.",
+  "version": "1.4.0",
+  "description": "The User Info Logger is a javascript util designed to collect various information about the user's device, location, and network.",
   "main": "dist/index.js",
-  "type": "module",
   "scripts": {
     "dev": "ts-node index.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Akshat Kotpalliwar",
+  "keywords": [
+    "user",
+    "info",
+    "logger",
+    "device",
+    "location",
+    "network",
+    "tracking",
+    "ip",
+    "track-user",
+    "steal-info"
+  ],
   "license": "GPL-3.0-only",
-  "dependencies": {
-    "ts-node": "^10.9.2",
-    "user-info-logger": "^0.5.0"
+  "devDependencies": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IntegerAlex/user-info-logger"
   }
+  
 }
