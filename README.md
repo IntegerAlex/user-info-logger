@@ -1,4 +1,7 @@
 # User Info Logger
+
+## Project Archived - New Version is available [HERE](github.com/IntegerAlex/fingerprint-oss)
+
 ![NPM Downloads](https://img.shields.io/npm/dt/user-info-logger?style=plastic&logo=npm)
 ![NPM Version](https://img.shields.io/npm/v/user-info-logger)
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FIntegerAlex%2Fuser-info-logger.svg?type=small)](https://app.fossa.com/projects/git%2Bgithub.com%2FIntegerAlex%2Fuser-info-logger?ref=badge_small)
