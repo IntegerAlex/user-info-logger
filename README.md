@@ -1,6 +1,9 @@
 # User Info Logger
 
-## Project Archived - New Version is available [HERE](github.com/IntegerAlex/fingerprint-oss)
+## Project Archived - New Version is available  
+[HERE](https://github.com/IntegerAlex/fingerprint-oss)
+
+[DEMO](https://github.com/IntegerAlex/fingerprint-oss-demo)
 
 ![NPM Downloads](https://img.shields.io/npm/dt/user-info-logger?style=plastic&logo=npm)
 ![NPM Version](https://img.shields.io/npm/v/user-info-logger)
